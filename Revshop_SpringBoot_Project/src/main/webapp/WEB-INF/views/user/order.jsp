@@ -257,7 +257,7 @@
 
             const totalOrderPrice = ${totalOrderPrice};  
             const options = {
-                "key": "rzp_test_wufQxWujYskjW7", 
+                "key": "your_key", 
                 "amount": totalOrderPrice * 100, 
                 "currency": "INR",
                 "name": "E-Commerce Website",
